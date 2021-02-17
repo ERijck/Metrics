@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 11:19:48 2021
-
-@author: 20200016
-"""
 
 class Metrics:
     def __init__(self, probabilities, labels, integral='trapezoid'):
